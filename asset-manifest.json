@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/interactive-bolmim/static/css/main.5e2e329f.css",
+    "main.js": "/interactive-bolmim/static/js/main.4e91440b.js",
+    "static/media/video8.mp4": "/interactive-bolmim/static/media/video8.be6eba01cc90e2a70130.mp4",
+    "static/media/video7.mp4": "/interactive-bolmim/static/media/video7.e0c278a4661855e411c9.mp4",
+    "static/media/video1.mp4": "/interactive-bolmim/static/media/video1.74fa63f9df1c6c35087e.mp4",
+    "static/media/video3.mp4": "/interactive-bolmim/static/media/video3.3152bbca55656777ade0.mp4",
+    "static/media/video2.mp4": "/interactive-bolmim/static/media/video2.79ece2bb66230aad5eb8.mp4",
+    "static/media/video5.mp4": "/interactive-bolmim/static/media/video5.b9567f2f419630501242.mp4",
+    "static/media/video6.mp4": "/interactive-bolmim/static/media/video6.d2db0827a3ed63022a69.mp4",
+    "static/media/video4.mp4": "/interactive-bolmim/static/media/video4.974443dc0d32bb2d93bd.mp4",
+    "index.html": "/interactive-bolmim/index.html",
+    "main.5e2e329f.css.map": "/interactive-bolmim/static/css/main.5e2e329f.css.map",
+    "main.4e91440b.js.map": "/interactive-bolmim/static/js/main.4e91440b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2e329f.css",
+    "static/js/main.4e91440b.js"
+  ]
+}
